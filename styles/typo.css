@@ -1,0 +1,30 @@
+h1 {
+font-family: 'Leckerli One', cursive;
+  font-size: 100px;
+  margin: 50px;
+}
+
+h2 {
+  font-family: 'Capriola', sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+  margin: 30px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Capriola', sans-serif;
+font-weight: 300;
+font-size: 20px;
+margin: 50px;
+}
+
+.section01 li {
+  font-family: 'Capriola', sans-serif;
+    font-size: 20px;
+  background: #f9b639;
+}
